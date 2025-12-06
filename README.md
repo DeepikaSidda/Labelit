@@ -14,12 +14,6 @@ Labelit is a lightweight Python background service that automatically renames sc
 - ⚡ **Lightweight**: No database, no UI - just a simple background service
 - 💰 **Completely FREE**: Uses Amazon Nova Lite - no cost per screenshot!
 
-## 📚 Documentation
-
-- **[Quick Setup (5 minutes)](QUICK_SETUP.md)** - Fast setup for experienced users
-- **[Complete Installation Guide](INSTALLATION_GUIDE.md)** - Detailed step-by-step instructions
-- **[Getting Started](GETTING_STARTED.md)** - Beginner-friendly guide
-- **[Configuration Template](CONFIG_TEMPLATE.yaml)** - Example config with explanations
 
 ## 📋 Requirements
 
@@ -129,15 +123,6 @@ Press `Ctrl+C` to stop the service gracefully.
 4. **Collision Handling**: If a filename already exists, a numeric suffix is added:
    - `login-screen.png` → `login-screen-2.png` → `login-screen-3.png`
 
-## Configuration Options
-
-| Option | Description | Default |
-|--------|-------------|---------|
-| `monitored_folder` | Folder to monitor for screenshots | `~/Pictures` |
-| `aws_region` | AWS region for Bedrock service | `us-east-1` |
-| `bedrock_model_id` | Bedrock model to use | `amazon.nova-lite-v1:0` |
-| `log_level` | Logging level (DEBUG, INFO, WARNING, ERROR) | `INFO` |
-| `process_existing_on_startup` | Process existing files on startup | `true` |
 
 ## Logs
 
@@ -167,28 +152,3 @@ black src/ tests/
 # Lint code
 ruff check src/ tests/
 ```
-
-## Troubleshooting
-
-### AWS Credentials Not Found
-
-Make sure you've configured AWS credentials using `aws configure` or environment variables.
-
-### Monitored Folder Not Accessible
-
-Ensure the folder specified in `config.yaml` exists and you have read/write permissions.
-
-### Service Not Detecting Files
-
-Check that:
-- The file matches screenshot patterns for your OS
-- The file extension is `.png`, `.jpg`, or `.jpeg`
-- The service is running and monitoring the correct folder
-
-## License
-
-MIT License - see LICENSE file for details
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
