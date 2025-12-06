@@ -14,6 +14,15 @@ Labelit is a lightweight Python background service that automatically renames sc
 - ⚡ **Lightweight**: No database, no UI - just a simple background service
 - 💰 **Completely FREE**: Uses Amazon Nova Lite - no cost per screenshot!
 
+## 📸 App Screenshots Gallery
+
+| | | |
+|---|---|---|
+| <a href="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/console-home-page-screens-hot-screenshot-of-a-labe-mh%20(2).png"><img src="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/console-home-page-screens-hot-screenshot-of-a-labe-mh%20(2).png" width="400"></a> | <a href="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/console-home-page-screens-hot-screenshot-of-a-labe-mh.png"><img src="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/console-home-page-screens-hot-screenshot-of-a-labe-mh.png" width="400"></a> | <a href="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/console-home-page-screenshot-with-various-colors.png"><img src="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/console-home-page-screenshot-with-various-colors.png" width="400"></a> |
+| <a href="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/dragon-chinese-mythical-creature-illustration-art--mh.png"><img src="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/dragon-chinese-mythical-creature-illustration-art--mh.png" width="400"></a> | <a href="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/kiro-2.jpg"><img src="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/kiro-2.jpg" width="400"></a> | <a href="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/kiro-ghost-logo-logo-black-background-white-text.png"><img src="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/kiro-ghost-logo-logo-black-background-white-text.png" width="400"></a> |
+| <a href="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/screenshot-of-a-labelit-service-log-mh.png"><img src="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/screenshot-of-a-labelit-service-log-mh.png" width="400"></a> | <a href="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/screenshot-of-a-labelit-service-log.png"><img src="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/screenshot-of-a-labelit-service-log.png" width="400"></a> |  |
+
+
 
 ## 📋 Requirements
 
