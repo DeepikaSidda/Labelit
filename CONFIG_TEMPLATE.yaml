@@ -1,0 +1,72 @@
+# Labelit Configuration File
+# Location: ~/.labelit/config.yaml (Windows: C:\Users\YourName\.labelit\config.yaml)
+
+# ============================================
+# REQUIRED: Change this to YOUR screenshots folder!
+# ============================================
+# 
+# Windows examples:
+#   monitored_folder: C:/Users/YourName/Pictures/Screenshots
+#   monitored_folder: C:/Users/YourName/OneDrive/Pictures/Screenshots
+#   monitored_folder: C:/Users/YourName/Desktop/Screenshots
+#
+# Mac examples:
+#   monitored_folder: /Users/YourName/Desktop
+#   monitored_folder: /Users/YourName/Pictures/Screenshots
+#
+# Linux examples:
+#   monitored_folder: /home/YourName/Pictures
+#   monitored_folder: /home/YourName/Screenshots
+#
+# How to find your folder:
+#   1. Take a screenshot
+#   2. Right-click the file → Properties (Windows) or Get Info (Mac)
+#   3. Copy the folder path
+#
+monitored_folder: C:/Users/YourName/Pictures/Screenshots
+
+# ============================================
+# AWS Configuration (usually no need to change)
+# ============================================
+
+# AWS region where Bedrock is available
+# Keep as us-east-1 unless you have a specific reason to change
+aws_region: us-east-1
+
+# AI model to use for image analysis
+# Options:
+#   - amazon.nova-lite-v1:0 (FREE! Recommended)
+#   - meta.llama3-2-11b-instruct-v1:0 (good quality, low cost)
+#   - anthropic.claude-3-sonnet-20240229-v1:0 (higher quality, higher cost)
+bedrock_model_id: amazon.nova-lite-v1:0
+
+# ============================================
+# Application Settings
+# ============================================
+
+# Logging level
+# Options: DEBUG, INFO, WARNING, ERROR, CRITICAL
+# Use INFO for normal operation, DEBUG for troubleshooting
+log_level: INFO
+
+# Process existing screenshots when service starts
+# true = rename all existing screenshots in folder on startup
+# false = only process NEW screenshots (recommended)
+process_existing_on_startup: false
+
+# ============================================
+# Notes
+# ============================================
+#
+# After editing this file:
+#   1. Save and close
+#   2. Restart Labelit: labelit start
+#   3. Or restart the scheduled task (Windows):
+#      Stop-ScheduledTask -TaskName "Labelit Screenshot Renamer"
+#      Start-ScheduledTask -TaskName "Labelit Screenshot Renamer"
+#
+# View logs:
+#   Windows: C:\Users\YourName\.labelit\labelit.log
+#   Mac/Linux: ~/.labelit/labelit.log
+#
+# ============================================
