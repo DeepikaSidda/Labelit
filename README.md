@@ -1,4 +1,8 @@
 # Labelit 📸
+<!-- Template for adding an image -->
+<a href="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/kiro-2.jpg">
+  <img src="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/kiro-2.jpg" width="400" />
+</a>
 
 Labelit is a lightweight Python background service that automatically renames screenshot files to descriptive names using AWS Bedrock's multimodal AI capabilities.
 
