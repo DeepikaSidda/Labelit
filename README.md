@@ -21,6 +21,22 @@ Labelit is a lightweight Python background service that automatically renames sc
 - AWS account with Bedrock access enabled
 - Internet connection for AWS Bedrock API
 
+## 🔧 Installation
+
+### From Source
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/labelit.git
+cd labelit
+
+# Install dependencies
+pip install -e .
+
+# Or install with development dependencies
+pip install -e ".[dev]"
+```
+
 ## ⚡ Quick Start
 
 ```bash
@@ -43,21 +59,6 @@ labelit start
 # 6. Take a screenshot and watch it get renamed!
 ```
 
-## 🔧 Installation
-
-### From Source
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/labelit.git
-cd labelit
-
-# Install dependencies
-pip install -e .
-
-# Or install with development dependencies
-pip install -e ".[dev]"
-```
 
 ## Configuration
 
