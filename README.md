@@ -30,6 +30,17 @@ Labelit is a lightweight Python background service that automatically renames sc
 | <a href="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/dragon-chinese-mythical-creature-illustration-art--mh.png"><img src="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/dragon-chinese-mythical-creature-illustration-art--mh.png" width="400"></a> | <a href="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/kiro-ghost-logo-logo-black-background-white-text.png"><img src="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/kiro-ghost-logo-logo-black-background-white-text.png" width="400"></a> |
 
 
+<p align="center">
+  <a href="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/screenshot-of-a-labelit-service-log-mh.png">
+    <img src="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/screenshot-of-a-labelit-service-log-mh.png" width="650">
+  </a>
+  <br>
+  <sub>🔹 Real-time Labelit service log showing screenshots automatically detected & renamed using AWS Bedrock.</sub><br>
+  <sub>🔹 Labelit service log output – file rename events with AI-generated filenames.</sub>
+</p>
+
+
+
 
 
 ## 📋 Requirements
@@ -136,12 +147,3 @@ Press `Ctrl+C` to stop the service gracefully.
 
 4. **Collision Handling**: If a filename already exists, a numeric suffix is added:
    - `login-screen.png` → `login-screen-2.png` → `login-screen-3.png`
-
-## 📸 App Screenshots Gallery
-
-| Screenshot | Screenshot |
-|---|---|
-| <a href="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/console-home-page-screens-hot-screenshot-of-a-labe-mh.png"><img src="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/console-home-page-screens-hot-screenshot-of-a-labe-mh.png" width="400"></a><br><sub>🔹 Console UI displaying project files & layout</sub> | <a href="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/console-home-page-screenshot-with-various-colors.png"><img src="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/console-home-page-screenshot-with-various-colors.png" width="400"></a><br><sub>🔹 Redesigned console with color-coded interface</sub> |
-| <a href="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/dragon-chinese-mythical-creature-illustration-art--mh.png"><img src="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/dragon-chinese-mythical-creature-illustration-art--mh.png" width="400"></a><br><sub>🔹 Sample image used to test AI vision understanding</sub> | <a href="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/kiro-ghost-logo-logo-black-background-white-text.png"><img src="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/kiro-ghost-logo-logo-black-background-white-text.png" width="400"></a><br><sub>🔹 Kiro AI Logo – branding used for project showcase</sub> |
-| <a href="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/screenshot-of-a-labelit-service-log.png"><img src="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/screenshot-of-a-labelit-service-log.png" width="400"></a><br><sub>🔹 Labelit service log output – file rename events</sub> | <a href="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/screenshot-of-a-labelit-service-log-mh.png"><img src="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/screenshot-of-a-labelit-service-log-mh.png" width="400"></a><br><sub>🔹 Live monitoring showing screenshots auto-renamed</sub> |
-
