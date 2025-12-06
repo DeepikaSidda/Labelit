@@ -33,30 +33,26 @@ cd labelit
 # Install dependencies
 pip install -e .
 
-# Or install with development dependencies
-pip install -e ".[dev]"
 ```
 
 ## ⚡ Quick Start
 
 ```bash
-# 1. Install
-pip install -e .
 
-# 2. Configure AWS
+# 1. Configure AWS
 aws configure
 
-# 3. Setup Labelit
+# 2. Setup Labelit
 labelit setup
 
-# 4. Edit config file and change monitored_folder to YOUR screenshots folder
+# 3. Edit config file and change monitored_folder to YOUR screenshots folder
 # Windows: notepad C:\Users\%USERNAME%\.labelit\config.yaml
 # Mac/Linux: nano ~/.labelit/config.yaml
 
-# 5. Start service
+# 4. Start service
 labelit start
 
-# 6. Take a screenshot and watch it get renamed!
+# 5. Take a screenshot and watch it get renamed!
 ```
 
 
