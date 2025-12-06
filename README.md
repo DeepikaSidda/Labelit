@@ -22,12 +22,12 @@ Labelit is a lightweight Python background service that automatically renames sc
 
 ## 📸 App Screenshots Gallery
 
-## 📸 App Screenshots Gallery
+
 
 | | |
 |---|---|
 | <a href="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/console-home-page-screens-hot-screenshot-of-a-labe-mh.png"><img src="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/console-home-page-screens-hot-screenshot-of-a-labe-mh.png" width="400"></a> | <a href="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/console-home-page-screenshot-with-various-colors.png"><img src="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/console-home-page-screenshot-with-various-colors.png" width="400"></a> |
-| <a href="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/dragon-chinese-mythical-creature-illustration-art--mh.png"><img src="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/dragon-chinese-mythical-creature-illustration-art--mh.png" width="400"></a> | <a href="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/kiro-2.jpg"><img src="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/kiro-2.jpg" width="400"></a> |
+| <a href="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/dragon-chinese-mythical-creature-illustration-art--mh.png"><img src="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/dragon-chinese-mythical-creature-illustration-art--mh.png" width="400"></a> | <a href="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/kiro-ghost-logo-logo-black-background-white-text.png"><img src="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/kiro-ghost-logo-logo-black-background-white-text.png" width="400"></a> |
 
 
 
