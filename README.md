@@ -26,7 +26,7 @@ Labelit is a lightweight Python background service that automatically renames sc
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=mec6PAQ0_Dg" target="_blank">
-    <img src="https://img.youtube.com/vi/mec6PAQ0_Dg/maxresdefault.jpg" 
+    <img src="https://raw.githubusercontent.com/DeepikaSidda/Labelit/main/Screenshots/kiro-ghost-logo-logo-black-background-white-text.png" 
          alt="Labelit Demo" 
          width="600" 
          style="border-radius:10px;">
@@ -36,7 +36,6 @@ Labelit is a lightweight Python background service that automatically renames sc
 <p align="center">
   ▶️ *Click the image to watch the video on YouTube*
 </p>
-
 
 
 ## 📸 App Screenshots Gallery
