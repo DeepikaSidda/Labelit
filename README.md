@@ -20,6 +20,11 @@ Labelit is a lightweight Python background service that automatically renames sc
 - ⚡ **Lightweight**: No database, no UI - just a simple background service
 - 💰 **Completely FREE**: Uses Amazon Nova Lite - no cost per screenshot!
 
+## 🎥 Watch the Video Demo
+
+[![Watch the Demo on YouTube](https://img.youtube.com/vi/mec6PAQ0_Dg/maxresdefault.jpg)](https://youtu.be/mec6PAQ0_Dg)
+
+
 ## 📸 App Screenshots Gallery
 
 
